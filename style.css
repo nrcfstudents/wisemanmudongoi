@@ -1,0 +1,16 @@
+.body {
+background-color: red;
+}
+
+.body p {
+.nav-bar p{
+	display: flex;
+flex: justify-content; space-between;
+}
+font-size: 200px;
+}
+
+.nav-bar p{
+	color: red;
+	font-size: 30px;
+}
