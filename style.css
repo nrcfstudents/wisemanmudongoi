@@ -1,16 +1,19 @@
-.body {
-background-color: red;
+body {
+	color: lightpink;
+	background-color: green ;
+	font-family: arial;
 }
 
-.body p {
-.nav-bar p{
-	display: flex;
-flex: justify-content; space-between;
+p {
+	text-align: left;}
+h1 {text-align: center;
+	color: darkred;
+	font-family: unset;
 }
-font-size: 200px;
-}
+.first{text-align: left;}
+h2 {color: yellow;
 
-.nav-bar p{
-	color: red;
-	font-size: 30px;
+}
+.ittalic-text {
+	font-style: italic;
 }
